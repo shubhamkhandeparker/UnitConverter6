@@ -37,10 +37,10 @@ A beautiful, modern Android unit converter app built with **Kotlin** and **Jetpa
 | Intro Screen | Category Selection | Length Converter | Temperature Converter |
 |:---:|:---:|:---:|:---:|
 | ![Intro](![WhatsApp Image 2025-07-06 at 9 27 24 PM](https://github.com/user-attachments/assets/bbbef801-5806-4c00-8e0d-95d7a4dabe42)
-) | ![Categories](![WhatsApp Image 2025-07-06 at 9 27 24 PM (1)](https://github.com/user-attachments/assets/cc372ec6-4948-4f47-b04f-27cd4be31e18)
-) | ![Length](![WhatsApp Image 2025-07-06 at 9 27 17 PM](https://github.com/user-attachments/assets/6a9f8e38-8b82-4e66-adc7-b5e719c75d81)
-) | ![Temperature](![WhatsApp Image 2025-07-06 at 9 27 15 PM](https://github.com/user-attachments/assets/3559650f-c97b-46ef-a58c-004efaf6476e)
-) |
+ | ![Categories](![WhatsApp Image 2025-07-06 at 9 27 24 PM (1)](https://github.com/user-attachments/assets/cc372ec6-4948-4f47-b04f-27cd4be31e18)
+ | ![Length](![WhatsApp Image 2025-07-06 at 9 27 17 PM](https://github.com/user-attachments/assets/6a9f8e38-8b82-4e66-adc7-b5e719c75d81)
+ | ![Temperature](![WhatsApp Image 2025-07-06 at 9 27 15 PM](https://github.com/user-attachments/assets/3559650f-c97b-46ef-a58c-004efaf6476e)
+ |
 
 ## 🛠️ Tech Stack
 
