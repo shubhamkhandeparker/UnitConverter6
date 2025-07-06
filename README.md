@@ -36,10 +36,11 @@ A beautiful, modern Android unit converter app built with **Kotlin** and **Jetpa
 
 | Intro Screen | Category Selection | Length Converter | Temperature Converter |
 |:---:|:---:|:---:|:---:|
-| ![Intro](![image](https://github.com/user-attachments/assets/dec0f147-6734-4b12-b56b-73c3d5b0c463)) 
-| ![Categories](![image](https://github.com/user-attachments/assets/8d91b237-52c9-43c7-8d79-2592656950af)) 
-| ![Length](![image](https://github.com/user-attachments/assets/ef68db06-34cc-44f7-b5ce-d8e8c8f44225)) 
-| ![Temperature](![image](https://github.com/user-attachments/assets/92713889-2e1a-49f1-90cc-9efd2396041c)) |
+| ![Intro](![WhatsApp Image 2025-07-06 at 9 27 24 PM](https://github.com/user-attachments/assets/bbbef801-5806-4c00-8e0d-95d7a4dabe42)
+) | ![Categories](![WhatsApp Image 2025-07-06 at 9 27 24 PM (1)](https://github.com/user-attachments/assets/cc372ec6-4948-4f47-b04f-27cd4be31e18)
+) | ![Length](![WhatsApp Image 2025-07-06 at 9 27 17 PM](https://github.com/user-attachments/assets/6a9f8e38-8b82-4e66-adc7-b5e719c75d81)
+) | ![Temperature](![WhatsApp Image 2025-07-06 at 9 27 15 PM](https://github.com/user-attachments/assets/3559650f-c97b-46ef-a58c-004efaf6476e)
+) |
 
 ## 🛠️ Tech Stack
 
@@ -50,11 +51,13 @@ A beautiful, modern Android unit converter app built with **Kotlin** and **Jetpa
 - **Material Design**: Material 3 components
 - **Minimum SDK**: Android 7.0 (API level 24)
 - **Target SDK**: Android 14 (API level 34)
+![Uploading WhatsApp Image 2025-07-06 at 9.27.24 PM.jpeg…]()
 
 ## 🏗️ Project Structure
 
 ```
-app/
+app/![Uploading WhatsApp Image 2025-07-06 at 9.27.24 PM.jpeg…]()
+
 ├── src/main/java/com/example/unitconverter/
 │   ├── MainActivity.kt              # Main activity and UI screens
 │   ├── ConversionCategory.kt        # Data class for categories
