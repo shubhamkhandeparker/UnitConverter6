@@ -36,11 +36,7 @@ A beautiful, modern Android unit converter app built with **Kotlin** and **Jetpa
 
 | Intro Screen | Category Selection | Length Converter | Temperature Converter |
 |:---:|:---:|:---:|:---:|
-| ![Intro](![image](https://github.com/user-attachments/assets/c8aa5df9-8728-42ee-96db-46d8a504fc70)
-) | ![Categories](![image](https://github.com/user-attachments/assets/a43a415b-4535-4665-a66b-d16976c0c6cd)
-) | ![Length](![image](https://github.com/user-attachments/assets/9e27d911-5646-4b17-a4f5-f49c6137d62a)
-) | ![Temperature](![image](https://github.com/user-attachments/assets/fbc51712-e05e-4410-a88e-afb4d2070727)
-) |
+| ![Intro](screenshot1.png) | ![Categories](screenshot2.png) | ![Length](screenshot3.png) | ![Temperature](screenshot4.png) |
 
 ## 🛠️ Tech Stack
 
